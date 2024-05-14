@@ -1,3 +1,4 @@
 scrapegraphai 
 streamlit 
 playwright
+install
